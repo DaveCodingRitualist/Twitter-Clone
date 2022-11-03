@@ -1,0 +1,122 @@
+
+@media (max-width: 480px) {
+    *{
+        overflow-x: hidden
+    };
+    .menu {
+      display: none;
+    }
+    .trending-container {
+        display: none;
+    }
+    .content{
+        width: 97vw;
+        margin-left: -10px;
+    }
+    .main-container{
+        width: 100vw;
+        border-bottom: none;
+    }
+    .profile{
+        display: none;
+    }
+    nav{
+        display: none;
+    }
+    .my-name{
+        margin-left: 10px;
+    }
+    .home{
+        position: fixed;
+        top: 0;
+        width: 95vw;
+        background-color: white;
+        margin-bottom: 10px;
+    }
+    .body{
+        width: 100vw;
+
+    }
+    .profile-pic2{
+        display: flex;
+        
+    }
+    .home{
+        width: 100vw;
+    }
+    .post{
+        display: none;
+    }
+    .main-container{
+        width: 100vw;
+    }
+  
+ 
+    .main-container{
+        /* width: 100vw; */
+        overflow-y: auto;
+    }
+    .account-name{
+        margin-left: 12px;
+    }
+    .content{
+        width: 100vw;
+        }
+      .post2, .reaction{
+        margin-left: 20px;
+      }
+      .number{
+        width: fit-content;
+      margin-right: 20px;/* background-color: #1D9BF0; */
+    }
+    .post-img{
+        width: 310px;
+        border-radius: 10px;
+        margin-bottom: 10px;
+        margin-left: 12px;
+    }
+    .home{
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: center;
+    
+    }
+    .title{
+        margin-left: 15px;
+        margin-right: 200px;
+    }
+    ..main-container{
+    
+        border-left: none;
+        border-right: none;
+
+    }
+    .mobile-nav{
+        width: 100vw;
+        display: flex;
+        flex-direction: row;
+       background-color: aliceblue;
+       height: 60px;
+        align-items: center;
+        position: fixed;
+        bottom: 0;
+        padding-left: 27px;
+    }
+    .mobile-items{
+        padding-right: 30%;
+    }
+    .right{
+        display: block;
+        position: fixed;
+        bottom: 80px;
+        right: 10px;
+        background-color:#1D9BF0;
+        border-radius: 50%;
+        padding-left: 15px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+   
+  }
+
