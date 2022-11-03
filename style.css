@@ -374,6 +374,7 @@ line-height: ;
     fill: aqua;
 }
 .trending-container{
+    margin-top: 36px;
     height: 100vh;
     width: calc(100vw - (44vw + 23vw));
     padding-left: 40px;
@@ -416,8 +417,10 @@ line-height: ;
     height: 45px;
     padding-left: 14px;
     background-color: #EFF3F4;
-    position: sticky;
-   width: 86%;
+    position: fixed;
+    top: 0;
+    right: 70px;
+   width: 24.5%;
 }
 .search-tweet{
     z-index: 1;
