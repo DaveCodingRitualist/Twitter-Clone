@@ -99,7 +99,9 @@ width: fit-content;
     margin-left: 55px;
     
 }
-
+.tweet{
+    margin-left: 13px;
+}
 .profile img{
     border-radius: 50%;
     margin-right: 2px;
