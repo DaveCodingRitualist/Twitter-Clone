@@ -411,7 +411,7 @@ line-height: ;
     display: flex;
     flex-direction: row;
     align-items: center;
-    
+    margin-top: 5px;
     
     border-radius: 9999px;
     height: 45px;
