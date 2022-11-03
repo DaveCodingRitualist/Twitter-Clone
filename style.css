@@ -8,6 +8,7 @@
 nav{
     height: 100vh;
     width: 23vw;
+    width: 320px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -16,11 +17,14 @@ nav{
 }
 body{
     overflow-y: hidden;
+    /* background-color: aquamarine; */
+    
+
 }
 
 .nav-item{
     width: fit-content;
-    margin-left: 75px;
+    margin-left: 55px;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 10px;
@@ -35,6 +39,7 @@ body{
     background-color: #e4e8ec;
     border-radius: 9999px;
     padding: auto;
+    cursor: pointer;
    
 }
 .twitter-logo:hover{
@@ -84,6 +89,7 @@ width: fit-content;
     height: 50px;
     font-size: 1rem;
     font-weight: bold;
+    margin-left: 55px;
     
    
 }
@@ -122,14 +128,6 @@ width: fit-content;
     display: flex;
     flex-direction: row;
     align-items: center;
-    font-size: 5rem;
-    /* background-color: #1D9BF0; */
-   /* margin-left: -17px; */
-   /* background-color: ;
-   padding-top: -5px;
-   padding-bottom: 5px;
-   padding-left: -10px;
-   padding-right: 10px;  */
    padding: 12px;
   
    
