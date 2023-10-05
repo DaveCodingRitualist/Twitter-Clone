@@ -417,10 +417,7 @@ line-height: ;
     height: 45px;
     padding-left: 14px;
     background-color: #EFF3F4;
-    position: fixed;
-    top: 0;
-    right: 70px;
-   width: 24.5%;
+    width: 86%;
 }
 .search-tweet{
     z-index: 1;
